@@ -85,9 +85,5 @@ This project demonstrates how Salesforce can revolutionize traditional garage op
 
 ---
 
-## 📎 Useful Links
-
-- 🔗 [Create Salesforce Developer Org](https://developer.salesforce.com/signup)
----
 
 > 📁 Clone this repo and customize for your own domain or business needs!
